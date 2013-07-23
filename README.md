@@ -1,4 +1,4 @@
-Horatio
-=======
+Consolving Horatio
+=====================================
 
-Horatio makes Mailing easier...
+Imagine a world where Mailing is as easy as downloading a file.

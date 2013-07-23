@@ -1,0 +1,10 @@
+@(message: String)
+
+@main("Welcome to Play 2.1") {
+    
+    <ul>
+    	<li><a href="@routes.Mailer.singleMail()">Single Mail JSON</a></li>
+    	<li><a href="@routes.Mailer.batchMail()">Batch Mail JSON</a></li>  	
+    </ul>
+    
+}
